@@ -1,7 +1,7 @@
 ### Welcome! 👋
 🔭 I’m currently working: as a web developer on [Today's News Online](https://github.com/bcgov/tno)
 
-🌱 I’m currently learning: Neovim/Vim as a text editor can find my dot files [here](https://github.com/jdtoombs/dotfiles.nvim), as well as taking a dive into React Server Components and Next.js
+🌱 I’m currently learning: Neovim/Vim as a text editor can find my dot files [here](https://github.com/jdtoombs/dotfiles.nvim),taking a dive into React Server Components and Next.js, and exploring Web Components
 
 I have a softspot for JavaScript :) 
 
