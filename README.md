@@ -3,6 +3,6 @@
 
 🌱 I’m currently learning: Neovim/Vim as a text editor can find my dot files [here](https://github.com/jdtoombs/dotfiles.nvim),playing with Godot/C#, and taking a dive into utilizing OpenAI
 
-I have a softspot for JavaScript :) 
+I have a softspot for TypeScript :) 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jdtoombs&show_icons=true&theme=tokyonight" alt="jdtoombs" />
