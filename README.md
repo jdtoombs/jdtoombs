@@ -1,5 +1,5 @@
 ### Welcome! 👋
-🔭 I’m currently working: as a full stack developer on [Q Pilot](https://github.com/quartech/chat-copilot)
+🔭 I’m currently working: as a full stack developer for Quartech
 
 🌱 I’m currently learning: Neovim/Vim as a text editor can find my dot files [here](https://github.com/jdtoombs/dotfiles.nvim),playing with Godot/C#, and dabbling in Rust.
 
